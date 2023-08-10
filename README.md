@@ -52,37 +52,28 @@
 ![Static Badge](https://img.shields.io/badge/unity_c%23-photon_project-EAB2A0)
 ![Static Badge](https://img.shields.io/badge/unity_c%23-my_room_online-EAB2A0)
 ![Static Badge](https://img.shields.io/badge/unity-studygram_unity_courses-EAB2A0)
-
-![Static Badge](https://img.shields.io/badge/python-tg_bot_poloma_api-8A2BE2)
-![Static Badge](https://img.shields.io/badge/python-rona_loft_parser-8A2BE2)
-![Static Badge](https://img.shields.io/badge/python-cc_math_online-8A2BE2)
-![Static Badge](https://img.shields.io/badge/python-ip_camera_radar-8A2BE2)
-
-![Static Badge](https://img.shields.io/badge/django-knox_site_builder-8A2BE2)
-
-![Static Badge](https://img.shields.io/badge/laravel-rattan_uz-8A2BE2)
-
-![Static Badge](https://img.shields.io/badge/php-clean_code_2022-8A2BE2)
-![Static Badge](https://img.shields.io/badge/php-cc_math_online-8A2BE2)
-![Static Badge](https://img.shields.io/badge/php-my_room_online-8A2BE2)
-![Static Badge](https://img.shields.io/badge/php-finch_uz-8A2BE2)
-
-![Static Badge](https://img.shields.io/badge/arduino-school_auto_clock-8A2BE2)
-![Static Badge](https://img.shields.io/badge/arduino-robo_constructor-8A2BE2)
-![Static Badge](https://img.shields.io/badge/arduino-ip_camera_radar-8A2BE2)
-![Static Badge](https://img.shields.io/badge/arduino-clock_magnium-8A2BE2)
-![Static Badge](https://img.shields.io/badge/arduino-ai_glasses-8A2BE2)
-![Static Badge](https://img.shields.io/badge/arduino-robo_sumo_2018-8A2BE2)
-![Static Badge](https://img.shields.io/badge/arduino-display_game-8A2BE2)
-
-
-![Static Badge](https://img.shields.io/badge/figma-studygram-8A2BE2)
-![Static Badge](https://img.shields.io/badge/figma-clean_code_2022-8A2BE2)
-![Static Badge](https://img.shields.io/badge/figma-rona_loft_posts-8A2BE2)
-
-
-![Static Badge](https://img.shields.io/badge/au-studygram_unity_courses-8A2BE2)
-![Static Badge](https://img.shields.io/badge/premier_pro-studygram_unity_courses-8A2BE2)
+![Static Badge](https://img.shields.io/badge/python-tg_bot_poloma_api-A76F6F)
+![Static Badge](https://img.shields.io/badge/python-rona_loft_parser-A76F6F)
+![Static Badge](https://img.shields.io/badge/python-cc_math_online-A76F6F)
+![Static Badge](https://img.shields.io/badge/python-ip_camera_radar-A76F6F)
+![Static Badge](https://img.shields.io/badge/django-knox_site_builder-435B66)
+![Static Badge](https://img.shields.io/badge/laravel-rattan_uz-2D4356)
+![Static Badge](https://img.shields.io/badge/php-clean_code_2022-EAB2A0)
+![Static Badge](https://img.shields.io/badge/php-cc_math_online-EAB2A0)
+![Static Badge](https://img.shields.io/badge/php-my_room_online-EAB2A0)
+![Static Badge](https://img.shields.io/badge/php-finch_uz-EAB2A0)
+![Static Badge](https://img.shields.io/badge/arduino-school_auto_clock-A76F6F)
+![Static Badge](https://img.shields.io/badge/arduino-robo_constructor-A76F6F)
+![Static Badge](https://img.shields.io/badge/arduino-ip_camera_radar-A76F6F)
+![Static Badge](https://img.shields.io/badge/arduino-clock_magnium-A76F6F)
+![Static Badge](https://img.shields.io/badge/arduino-ai_glasses-A76F6F)
+![Static Badge](https://img.shields.io/badge/arduino-robo_sumo_2018-A76F6F)
+![Static Badge](https://img.shields.io/badge/arduino-display_game-A76F6F)
+![Static Badge](https://img.shields.io/badge/figma-studygram-435B66)
+![Static Badge](https://img.shields.io/badge/figma-clean_code_2022-435B66)
+![Static Badge](https://img.shields.io/badge/figma-rona_loft_posts-435B66)
+![Static Badge](https://img.shields.io/badge/au-studygram_unity_courses-2D4356)
+![Static Badge](https://img.shields.io/badge/premier_pro-studygram_unity_courses-EAB2A0)
 
 
 ## Связь
