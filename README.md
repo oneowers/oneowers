@@ -51,10 +51,10 @@
     <img src="https://ie.wampi.ru/2023/08/10/Group-4.png" alt="Игра 3" width="19%">
   </a>
   <a href="https://itpark.itch.io/pvp">
-    <img src="https://im.wampi.ru/2023/08/10/Group-5.png" alt="Игра 4" width="19%">
+    <img src="https://im.wampi.ru/2023/08/10/Group-5.png" alt="Игра 4" width="18%">
   </a>
   <a href="https://itpark.itch.io/pvp">
-    <img src="https://ic.wampi.ru/2023/08/10/Group-6.png" alt="Игра 5" width="19%">
+    <img src="https://ic.wampi.ru/2023/08/10/Group-6.png" alt="Игра 5" width="18%">
   </a>
   <!-- Добавьте скриншоты и ссылки для всех интересующих вас игр -->
 </div>
