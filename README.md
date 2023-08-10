@@ -41,14 +41,14 @@
 ## Проект "Math For Brain"
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
-  <a href="https://itpark.itch.io/crystal-castle">
-    <img src="https://img.itch.zone/aW1nLzg1ODE4NDEuanBn/315x250%23c/N54WEy.jpg" alt="Скриншот 1" width="30%">
+  <a href="https://itpark.itch.io/crystal-castle" style="flex-basis: 30%;">
+    <img src="https://img.itch.zone/aW1nLzg1ODE4NDEuanBn/315x250%23c/N54WEy.jpg" alt="Скриншот 1" style="width: 100%; display: block;">
   </a>
-  <a href="https://www.linkedin.com/feed/update/urn:li:activity:7032008221506613248/">
-    <img src="https://ie.wampi.ru/2023/08/10/SNIMOK-EKRANA-2023-04-25-184325.png" alt="Скриншот 1" width="30%">
+  <a href="https://www.linkedin.com/feed/update/urn:li:activity:7032008221506613248/" style="flex-basis: 30%;">
+    <img src="https://ie.wampi.ru/2023/08/10/SNIMOK-EKRANA-2023-04-25-184325.png" alt="Скриншот 1" style="width: 100%; display: block;">
   </a>
-  <a href="https://itpark.itch.io/pvp">
-    <img src="https://ie.wampi.ru/2023/08/10/Screenshot-2023-08-10-124948.png" alt="Скриншот 2" width="30%">
+  <a href="https://itpark.itch.io/pvp" style="flex-basis: 30%;">
+    <img src="https://ie.wampi.ru/2023/08/10/Screenshot-2023-08-10-124948.png" alt="Скриншот 2" style="width: 100%; display: block;">
   </a>
   <!-- Добавьте скриншоты и ссылки для всех интересующих вас игр -->
 </div>
