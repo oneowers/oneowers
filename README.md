@@ -40,24 +40,7 @@
 
 ## Проекты
 
-<div style="display: flex; justify-content: space-between; align-items: center;">
-  <a href="https://itpark.itch.io/pvp">
-    <img src="https://ie.wampi.ru/2023/08/10/Group-2.png" alt="Игра 1" width="18.7%">
-  </a>
-  <a href="https://itpark.itch.io/crystal-castle">
-    <img src="https://ic.wampi.ru/2023/08/10/Group-3.png" alt="Игра 2" width="18.7%">
-  </a>
-  <a href="https://www.linkedin.com/feed/update/urn:li:activity:7032008221506613248/">
-    <img src="https://ie.wampi.ru/2023/08/10/Group-4.png" alt="Игра 3" width="18.7%">
-  </a>
-  <a href="https://itpark.itch.io/pvp">
-    <img src="https://im.wampi.ru/2023/08/10/Group-5.png" alt="Игра 4" width="18.7%">
-  </a>
-  <a href="https://itpark.itch.io/pvp">
-    <img src="https://ic.wampi.ru/2023/08/10/Group-6.png" alt="Игра 5" width="18.7%">
-  </a>
-  <!-- Добавьте скриншоты и ссылки для всех интересующих вас игр -->
-</div>
+![Static Badge](https://img.shields.io/badge/unity_c%23-crystal%20castle-8A2BE2)
 
 
 ## Связь
