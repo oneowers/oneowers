@@ -4,14 +4,12 @@
 
 Привет! Я рад приветствовать вас на странице моего портфолио. Меня зовут Мухаммад Комолов, и у меня за плечами более трёх лет опыта в разработке программного обеспечения. Давайте расскажу немного о себе и моих достижениях.
 
-[![Static Badge](https://img.shields.io/badge/unity_c%23-crystal_castle-4942E4)](https://itpark.itch.io/crystal-castle)
 [![Static Badge](https://img.shields.io/badge/unity_c%23-survival_island-4942E4)](https://github.com/oneowers/oneowers/tree/master/Apk/%5BUSOFT-FITG%5D%20SurvivalIsland)
-[![Static Badge](https://img.shields.io/badge/unity_c%23-tower_shot-4942E4)](https://github.com/oneowers/oneowers/tree/master/Apk/%5BUSOFT%5D%20TowerShot)
-[![Static Badge](https://img.shields.io/badge/unity_c%23-al_ninja-4942E4)](https://github.com/oneowers/oneowers/tree/master/WebGl/%5BFITG%5D%20Mini%20AlNinga)
-[![Static Badge](https://img.shields.io/badge/unity_c%23-flappy_chiroq-4942E4)](https://github.com/oneowers/oneowers/tree/master/WebGl/%5BFITG%5D%20Mini%20FlappyChiroq)
-[![Static Badge](https://img.shields.io/badge/unity_c%23-minions_war-4942E4)](https://github.com/oneowers/oneowers/tree/master/Apk/%5BFITG%5D%20MinionsWar)
+[![Static Badge](https://img.shields.io/badge/unity_c%23-crystal_castle-4942E4)](https://itpark.itch.io/crystal-castle)
 [![Static Badge](https://img.shields.io/badge/unity_c%23-gdg_2022_finance-4942E4)](https://itpark.itch.io/finance)
 [![Static Badge](https://img.shields.io/badge/unity_c%23-math_pvp-4942E4)](https://itpark.itch.io/pvp)
+[![Static Badge](https://img.shields.io/badge/unity_c%23-tower_shot-4942E4)](https://github.com/oneowers/oneowers/tree/master/Apk/%5BUSOFT%5D%20TowerShot)
+[![Static Badge](https://img.shields.io/badge/unity_c%23-flappy_chiroq-4942E4)](https://github.com/oneowers/oneowers/tree/master/WebGl/%5BFITG%5D%20Mini%20FlappyChiroq)
 [![Static Badge](https://img.shields.io/badge/unity_c%23-photon_project-4942E4)](https://itpark.itch.io/themytable)
 
 ## Обо мне
