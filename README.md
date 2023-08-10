@@ -1,6 +1,6 @@
 # Привет, я Мухаммад Комолов!
 
-![Header Image](https://catherineasquithgallery.com/uploads/posts/2023-01/1674287569_catherineasquithgallery-com-p-fon-sine-serii-gradient-foto-135.jpg)
+![Header Image](https://ic.wampi.ru/2023/08/10/Group-1.png)
 
 Привет! Я рад приветствовать вас на странице моего портфолио. Меня зовут Мухаммад Комолов, и у меня за плечами более трёх лет опыта в разработке программного обеспечения. Давайте расскажу немного о себе и моих достижениях.
 
