@@ -48,6 +48,41 @@
 ![Static Badge](https://img.shields.io/badge/unity_c%23-flappy_chiroq-8A2BE2)
 ![Static Badge](https://img.shields.io/badge/unity_c%23-music_hop-8A2BE2)
 ![Static Badge](https://img.shields.io/badge/unity_c%23-math_for_fishes-8A2BE2)
+![Static Badge](https://img.shields.io/badge/unity_c%23-math_pvp-8A2BE2)
+![Static Badge](https://img.shields.io/badge/unity_c%23-photon_project-8A2BE2)
+![Static Badge](https://img.shields.io/badge/unity_c%23-my_room_online-8A2BE2)
+![Static Badge](https://img.shields.io/badge/unity-studygram_unity_courses-8A2BE2)
+
+![Static Badge](https://img.shields.io/badge/python-tg_bot_poloma_api-8A2BE2)
+![Static Badge](https://img.shields.io/badge/python-rona_loft_parser-8A2BE2)
+![Static Badge](https://img.shields.io/badge/python-cc_math_online-8A2BE2)
+![Static Badge](https://img.shields.io/badge/python-ip_camera_radar-8A2BE2)
+
+![Static Badge](https://img.shields.io/badge/django-knox_site_builder-8A2BE2)
+
+![Static Badge](https://img.shields.io/badge/laravel-rattan_uz-8A2BE2)
+
+![Static Badge](https://img.shields.io/badge/php-clean_code_2022-8A2BE2)
+![Static Badge](https://img.shields.io/badge/php-cc_math_online-8A2BE2)
+![Static Badge](https://img.shields.io/badge/php-my_room_online-8A2BE2)
+![Static Badge](https://img.shields.io/badge/php-finch_uz-8A2BE2)
+
+![Static Badge](https://img.shields.io/badge/arduino-school_auto_clock-8A2BE2)
+![Static Badge](https://img.shields.io/badge/arduino-robo_constructor-8A2BE2)
+![Static Badge](https://img.shields.io/badge/arduino-ip_camera_radar-8A2BE2)
+![Static Badge](https://img.shields.io/badge/arduino-clock_magnium-8A2BE2)
+![Static Badge](https://img.shields.io/badge/arduino-ai_glasses-8A2BE2)
+![Static Badge](https://img.shields.io/badge/arduino-robo_sumo_2018-8A2BE2)
+![Static Badge](https://img.shields.io/badge/arduino-display_game-8A2BE2)
+
+
+![Static Badge](https://img.shields.io/badge/figma-studygram-8A2BE2)
+![Static Badge](https://img.shields.io/badge/figma-clean_code_2022-8A2BE2)
+![Static Badge](https://img.shields.io/badge/figma-rona_loft_posts-8A2BE2)
+
+
+![Static Badge](https://img.shields.io/badge/au-studygram_unity_courses-8A2BE2)
+![Static Badge](https://img.shields.io/badge/premier_pro-studygram_unity_courses-8A2BE2)
 
 
 ## Связь
