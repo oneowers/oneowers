@@ -40,7 +40,14 @@
 
 ## Проекты
 
-![Static Badge](https://img.shields.io/badge/unity_c%23-crystal%20castle-8A2BE2)
+![Static Badge](https://img.shields.io/badge/unity_c%23-crystal_castle-8A2BE2)
+![Static Badge](https://img.shields.io/badge/unity_c%23-infinity_car_runner_3d-8A2BE2)
+![Static Badge](https://img.shields.io/badge/unity_c%23-survival_island-8A2BE2)
+![Static Badge](https://img.shields.io/badge/unity_c%23-tower_shot-8A2BE2)
+![Static Badge](https://img.shields.io/badge/unity_c%23-al_ninja-8A2BE2)
+![Static Badge](https://img.shields.io/badge/unity_c%23-flappy_chiroq-8A2BE2)
+![Static Badge](https://img.shields.io/badge/unity_c%23-music_hop-8A2BE2)
+![Static Badge](https://img.shields.io/badge/unity_c%23-math_for_fishes-8A2BE2)
 
 
 ## Связь
